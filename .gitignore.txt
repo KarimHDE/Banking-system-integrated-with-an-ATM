@@ -1,0 +1,14 @@
+# Ignore system folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+*.log
+*.tmp
+*.ini
+*.dat
+*.7z
+.vscode/
